@@ -6,6 +6,7 @@
 - Post /auth/login
 ![image](https://github.com/user-attachments/assets/57f01234-fd2b-4502-8101-118398625ca2)
 
+### Webtoons Endpoints
 - Get /webtoons - get webtoons paginated
   query Parameters
   1. page : integer ( default 1 )
